@@ -54,11 +54,11 @@
 		margin-bottom:0px;
 	}
 	header#cabecalho h2{
-	font-family:'Titillium Web', sans-serif;
-	color: #888888;
-	font-size: 15pt;
-	padding: 0px;
-	margin-top:0px;
+		font-family:'Titillium Web', sans-serif;
+		color: #888888;
+		font-size: 15pt;
+		padding: 0px;
+		margin-top:0px;
 	
 	}	
 		
@@ -241,19 +241,19 @@
 	}
 
 	video#mini01{
-	display: block;
-   	position: relative;
-    	left: 50px ;
-    	top: 0px;
-    	width: 400px;
+		display: block;
+   		position: relative;
+    		left: 50px ;
+    		top: 0px;
+    		width: 400px;
 
 	}
 
 	video#howFeels{
-	display: block;
-   	position: relative;
-    	left: 0px ;
-    	top: 0px;
-    	width: 350px;
+		display: block;
+   		position: relative;
+    		left: 0px ;
+    		top: 0px;
+    		width: 350px;
 
 	}
