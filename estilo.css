@@ -60,7 +60,7 @@
 	padding: 0px;
 	margin-top:0px;
 	
-}	
+	}	
 		
 	/* Formatação de imagens com legendas*/
 	
@@ -242,18 +242,18 @@
 
 	video#mini01{
 	display: block;
-    position: relative;
-    left: 50px ;
-    top: 0px;
-    width: 400px;
+   	position: relative;
+    	left: 50px ;
+    	top: 0px;
+    	width: 400px;
 
 	}
 
 	video#howFeels{
 	display: block;
-    position: relative;
-    left: 0px ;
-    top: 0px;
-    width: 350px;
+   	position: relative;
+    	left: 0px ;
+    	top: 0px;
+    	width: 350px;
 
 	}
